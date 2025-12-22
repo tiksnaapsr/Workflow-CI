@@ -31,7 +31,7 @@ jobs:
         MLFLOW_TRACKING_PASSWORD: ${{ secrets.DAGSHUB_TOKEN }}
       run: |
         cd MLProject
-        python train.py
+        python modelling.py
 
     # Tangkap Run ID 
     - name: Get Latest Run ID
