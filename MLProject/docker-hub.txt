@@ -1,0 +1,2 @@
+Link Docker hub
+https://hub.docker.com/repository/docker/tiksna/water-potability-model/general
